@@ -1,0 +1,11 @@
+{ "id": "heartbeat_heist",
+  "name": "Heartbeat Heist",
+  "shortName" : "heartbeat_heist",
+  "icon": "app.png",
+  "description": "eartbeat Heist",
+  "tags": "",
+  "storage": [
+    {"name":"heartbeat_heist.app.js","url":"app.js"},
+    {"name":"heartbeat_heist.img","url":"app-icon.js","evaluate":true}
+  ],
+},
